@@ -10,5 +10,6 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 
 ### testando pra aula
 marcos sabino test one
-comando git push tentando concertar error...
+comando git push tentando concertar
+...novamente nnn
 
